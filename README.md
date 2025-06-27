@@ -37,10 +37,10 @@ A modern, interactive lead qualification chatbot built for NxtWave's Free Career
 
 ## 📁 Project Structure
 
-├── index.html # Main HTML structure
-├── style.css # Complete styling and animations
-├── dynamic.js # Chatbot logic and functionality
-└── README.md # Project documentation
+- index.html # Main HTML structure
+- style.css # Complete styling and animations
+- dynamic.js # Chatbot logic and functionality
+- README.md # Project documentation
 
 
 ## 🚀 Quick Start
